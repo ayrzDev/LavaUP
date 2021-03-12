@@ -1,6 +1,6 @@
 name: LavaUp
 main: Ayrz\Main
-api: [3.17.1]
+api: 3.15.4
 version: 1
 author: Ayrz & Ahmet Mücahit DOĞRU
 description: Every 1 minute the lava will overlap one layer and the lava will damage and you have to escape from the lava!
